@@ -1,0 +1,13 @@
+Package: SNPfreq
+Version: 0.0
+Date: 2017-11-14
+Title: SNP Allele Frequency Estimation and Utilities
+Authors@R: person("Michael", "Rivera", role = c("aut", "cre"),
+                  email = "mdriver3@illinois.edu")
+Author: Michael Rivera [aut, cre]
+Maintainer: Michael Rivera <mdriver3@illinois.edu>
+Description: This package includes functions to estimate minor allele frequencies
+  from numerical SNP data, plot histograms of minor allele frequencies, and
+  filter SNP data based on minor allele frequencies.
+Url: https://github.com/mdriver3/SNPfreq
+License: GPL-3
